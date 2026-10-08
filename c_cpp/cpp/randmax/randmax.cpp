@@ -1,4 +1,8 @@
-// January 28, 2015 -- updated
+/**
+Author: Gbenga Ojo
+Date: January 15, 2015
+Modified: January 28, 2015 -- updated
+*/
 
 #include <string>
 #include <stdlib.h>
